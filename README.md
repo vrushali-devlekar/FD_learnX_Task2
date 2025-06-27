@@ -1,6 +1,7 @@
-# FD_learnX_Task2
-E-learning platform front end
-# 🎓 E-LearnX - Modern E-learning Frontend
+# live preview
+https://fd-learn-x-task2.vercel.app/
+
+# 🎓 LearnX - Modern E-learning Frontend
 
 A fully responsive and interactive front-end for an E-learning platform inspired by platforms like Udemy and YouTube Learning. Built using HTML, Tailwind CSS, and JavaScript.
 
